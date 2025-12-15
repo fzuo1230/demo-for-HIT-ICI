@@ -1,2 +1,3 @@
-# demo-for-HIT-ICI
-demo展示
+# demo-for-HITSZ-ICI
+
+HITSZ-ICI是哈尔滨工业大学（深圳）智能计算研究院的简写，本仓库为该研究院下部分研究成果的demo展示。
