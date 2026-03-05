@@ -12,7 +12,7 @@ demo链接：http://10.249.41.151:8501/
 
 论文：Adaptive Inner Speech-Text Alignment for LLM-based Speech Translation （2025 nlpcc oral）
 
-demo链接：https://67be0db33b24fca34f.gradio.live/
+demo链接：https://6d49d1f74051708afb.gradio.live/
 
 ### 图文翻译
 
