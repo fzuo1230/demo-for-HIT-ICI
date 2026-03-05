@@ -22,8 +22,6 @@ demo链接：https://272998abdb9f7dc964.gradio.live
 
 ### 多语言指令遵循
 
-论文：XIFBench: Evaluating Large Language Models on Multilingual Instruction Following （2025 nips）
+论文：XIFBench: Evaluating Large Language Models on Multilingual Instruction Following （2025 NIPS DB Track）
 
-demo链接：
-
-
+demo链接：https://eafd4800eefb83bfa3.gradio.live/
